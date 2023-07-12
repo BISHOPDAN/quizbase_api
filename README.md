@@ -113,7 +113,7 @@ To run the API on your local system.
 python manage.py runserver
 ```
 
-API server will run on `http://localhost:8000/`. Visit [Swagger](http://localhost:8000/dav/) to read the Swagger API documentation.
+API server will run on `http://localhost:8000/`. Visit [Swagger](http://localhost:8000/quiz/) to read the Swagger API documentation.
 
 
 ## Contributing
