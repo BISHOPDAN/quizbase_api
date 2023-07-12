@@ -1,0 +1,130 @@
+ERROR : 2023-06-01 16:29:11,964 : 'TokenUser' object has no attribute 'staff'
+Traceback (most recent call last):
+  File "C:\Users\ACER\Documents\backend_block\tripapi\account\api\base\permissions.py", line 13, in has_permission
+    if user.staff or user.admin:
+AttributeError: 'TokenUser' object has no attribute 'staff'
+ERROR : 2023-06-04 22:37:46,170 : 'TokenUser' object has no attribute 'staff'
+Traceback (most recent call last):
+  File "C:\Users\ACER\Documents\backend_block\tripapi\account\api\base\permissions.py", line 13, in has_permission
+    if user.staff or user.admin:
+AttributeError: 'TokenUser' object has no attribute 'staff'
+ERROR : 2023-06-04 22:41:04,045 : 'TokenUser' object has no attribute 'staff'
+Traceback (most recent call last):
+  File "C:\Users\ACER\Documents\backend_block\tripapi\account\api\base\permissions.py", line 13, in has_permission
+    if user.staff or user.admin:
+AttributeError: 'TokenUser' object has no attribute 'staff'
+ERROR : 2023-06-04 22:41:46,473 : 'TokenUser' object has no attribute 'staff'
+Traceback (most recent call last):
+  File "C:\Users\ACER\Documents\backend_block\tripapi\account\api\base\permissions.py", line 13, in has_permission
+    if user.staff or user.admin:
+AttributeError: 'TokenUser' object has no attribute 'staff'
+ERROR : 2023-06-04 22:42:55,219 : 'TokenUser' object has no attribute 'staff'
+Traceback (most recent call last):
+  File "C:\Users\ACER\Documents\backend_block\tripapi\account\api\base\permissions.py", line 13, in has_permission
+    if user.staff or user.admin:
+AttributeError: 'TokenUser' object has no attribute 'staff'
+ERROR : 2023-06-04 22:46:21,682 : 'TokenUser' object has no attribute 'staff'
+Traceback (most recent call last):
+  File "C:\Users\ACER\Documents\backend_block\tripapi\account\api\base\permissions.py", line 13, in has_permission
+    if user.staff or user.admin:
+AttributeError: 'TokenUser' object has no attribute 'staff'
+ERROR : 2023-06-04 22:47:21,371 : 'TokenUser' object has no attribute 'staff'
+Traceback (most recent call last):
+  File "C:\Users\ACER\Documents\backend_block\tripapi\account\api\base\permissions.py", line 13, in has_permission
+    if user.staff or user.admin:
+AttributeError: 'TokenUser' object has no attribute 'staff'
+ERROR : 2023-06-04 22:51:14,647 : 'TokenUser' object has no attribute 'staff'
+Traceback (most recent call last):
+  File "C:\Users\ACER\Documents\backend_block\tripapi\account\api\base\permissions.py", line 13, in has_permission
+    if user.staff or user.admin:
+AttributeError: 'TokenUser' object has no attribute 'staff'
+ERROR : 2023-06-04 22:57:13,632 : 'TokenUser' object has no attribute 'staff'
+Traceback (most recent call last):
+  File "C:\Users\ACER\Documents\backend_block\tripapi\account\api\base\permissions.py", line 13, in has_permission
+    if user.staff or user.admin:
+AttributeError: 'TokenUser' object has no attribute 'staff'
+ERROR : 2023-06-04 23:29:09,931 : 'TokenUser' object has no attribute 'staff'
+Traceback (most recent call last):
+  File "C:\Users\ACER\Documents\backend_block\tripapi\account\api\base\permissions.py", line 13, in has_permission
+    if user.staff or user.admin:
+AttributeError: 'TokenUser' object has no attribute 'staff'
+ERROR : 2023-06-04 23:29:40,613 : 'TokenUser' object has no attribute 'staff'
+Traceback (most recent call last):
+  File "C:\Users\ACER\Documents\backend_block\tripapi\account\api\base\permissions.py", line 13, in has_permission
+    if user.staff or user.admin:
+AttributeError: 'TokenUser' object has no attribute 'staff'
+ERROR : 2023-06-04 23:38:38,088 : 'TokenUser' object has no attribute 'staff'
+Traceback (most recent call last):
+  File "C:\Users\ACER\Documents\backend_block\tripapi\account\api\base\permissions.py", line 13, in has_permission
+    if user.staff or user.admin:
+AttributeError: 'TokenUser' object has no attribute 'staff'
+ERROR : 2023-06-04 23:53:31,563 : 'TokenUser' object has no attribute 'staff'
+Traceback (most recent call last):
+  File "C:\Users\ACER\Documents\backend_block\tripapi\account\api\base\permissions.py", line 13, in has_permission
+    if user.staff or user.admin:
+AttributeError: 'TokenUser' object has no attribute 'staff'
+ERROR : 2023-06-04 23:58:34,732 : 'TokenUser' object has no attribute 'staff'
+Traceback (most recent call last):
+  File "C:\Users\ACER\Documents\backend_block\tripapi\account\api\base\permissions.py", line 13, in has_permission
+    if user.staff or user.admin:
+AttributeError: 'TokenUser' object has no attribute 'staff'
+ERROR : 2023-06-05 08:30:06,056 : 'TokenUser' object has no attribute 'staff'
+Traceback (most recent call last):
+  File "C:\Users\ACER\Documents\backend_block\tripapi\account\api\base\permissions.py", line 13, in has_permission
+    if user.staff or user.admin:
+AttributeError: 'TokenUser' object has no attribute 'staff'
+ERROR : 2023-06-05 08:36:31,913 : 'TokenUser' object has no attribute 'staff'
+Traceback (most recent call last):
+  File "C:\Users\ACER\Documents\backend_block\tripapi\account\api\base\permissions.py", line 13, in has_permission
+    if user.staff or user.admin:
+AttributeError: 'TokenUser' object has no attribute 'staff'
+ERROR : 2023-06-05 08:48:06,744 : 'TokenUser' object has no attribute 'staff'
+Traceback (most recent call last):
+  File "C:\Users\ACER\Documents\backend_block\tripapi\account\api\base\permissions.py", line 13, in has_permission
+    if user.staff or user.admin:
+AttributeError: 'TokenUser' object has no attribute 'staff'
+ERROR : 2023-06-05 08:49:06,729 : 'TokenUser' object has no attribute 'staff'
+Traceback (most recent call last):
+  File "C:\Users\ACER\Documents\backend_block\tripapi\account\api\base\permissions.py", line 13, in has_permission
+    if user.staff or user.admin:
+AttributeError: 'TokenUser' object has no attribute 'staff'
+ERROR : 2023-06-05 14:18:53,727 : 'TokenUser' object has no attribute 'staff'
+Traceback (most recent call last):
+  File "C:\Users\ACER\Documents\backend_block\tripapi\account\api\base\permissions.py", line 13, in has_permission
+    if user.staff or user.admin:
+AttributeError: 'TokenUser' object has no attribute 'staff'
+ERROR : 2023-06-05 22:23:24,156 : 'TokenUser' object has no attribute 'staff'
+Traceback (most recent call last):
+  File "C:\Users\ACER\Documents\backend_block\tripapi\account\api\base\permissions.py", line 13, in has_permission
+    if user.staff or user.admin:
+AttributeError: 'TokenUser' object has no attribute 'staff'
+ERROR : 2023-06-06 22:13:22,249 : 'TokenUser' object has no attribute 'staff'
+Traceback (most recent call last):
+  File "C:\Users\ACER\Documents\backend_block\tripapi\account\api\base\permissions.py", line 13, in has_permission
+    if user.staff or user.admin:
+AttributeError: 'TokenUser' object has no attribute 'staff'
+ERROR : 2023-06-07 02:07:02,540 : 'TokenUser' object has no attribute 'staff'
+Traceback (most recent call last):
+  File "C:\Users\ACER\Documents\backend_block\tripapi\account\api\base\permissions.py", line 13, in has_permission
+    if user.staff or user.admin:
+AttributeError: 'TokenUser' object has no attribute 'staff'
+ERROR : 2023-06-07 11:13:05,475 : 'TokenUser' object has no attribute 'staff'
+Traceback (most recent call last):
+  File "C:\Users\ACER\Documents\backend_block\tripapi\account\api\base\permissions.py", line 13, in has_permission
+    if user.staff or user.admin:
+AttributeError: 'TokenUser' object has no attribute 'staff'
+ERROR : 2023-06-08 18:24:18,039 : 'TokenUser' object has no attribute 'staff'
+Traceback (most recent call last):
+  File "C:\Users\ACER\Documents\backend_block\tripapi\account\api\base\permissions.py", line 13, in has_permission
+    if user.staff or user.admin:
+AttributeError: 'TokenUser' object has no attribute 'staff'
+ERROR : 2023-06-15 12:36:45,145 : 'TokenUser' object has no attribute 'staff'
+Traceback (most recent call last):
+  File "C:\Users\ACER\Documents\backend_block\tripapi\account\api\base\permissions.py", line 13, in has_permission
+    if user.staff or user.admin:
+AttributeError: 'TokenUser' object has no attribute 'staff'
+ERROR : 2023-06-16 09:41:30,041 : 'TokenUser' object has no attribute 'staff'
+Traceback (most recent call last):
+  File "C:\Users\ACER\Documents\backend_block\tripapi\account\api\base\permissions.py", line 13, in has_permission
+    if user.staff or user.admin:
+AttributeError: 'TokenUser' object has no attribute 'staff'
