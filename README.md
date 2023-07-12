@@ -24,7 +24,7 @@
 
 ## 🧐 About <a name = "about"></a>
 
-A DRF project for TripValue. It covers all features of Users, Quiz and Security System for ensuring good security.
+A DRF project for Quizbase. It covers all features of Users, Quiz and Security System for ensuring good security.
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
