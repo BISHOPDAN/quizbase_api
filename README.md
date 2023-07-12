@@ -41,10 +41,8 @@ A step by step series of examples that tell you how to get a development environ
 Clone the project
 
 ```bash
-git clone https://github.com/BISHOPDAN/quiz_base_api.git
-cd quiz_base_api
-
-cd backend-quizbase
+git clone https://github.com/BISHOPDAN/quizbase_api.git
+cd quizbase_api
 ```
 
 Setup env & install dependencies
@@ -55,7 +53,7 @@ Linux
 python -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
-cd quiz_base_api
+cd quizbase_api
 mkdir logs
 ```
 
@@ -65,7 +63,7 @@ Windows
 python -m venv venv
 venv\Scripts\activate
 pip install -r requirements.txt
-cd quiz_base_api
+cd quizbase_api
 mkdir logs
 ```
 
@@ -115,7 +113,7 @@ To run the API on your local system.
 python manage.py runserver
 ```
 
-API server will run on `http://localhost:8000/`. Visit [Swagger](http://localhost:8000/dan/) to read the Swagger API documentation.
+API server will run on `http://localhost:8000/`. Visit [Swagger](http://localhost:8000/dav/) to read the Swagger API documentation.
 
 
 ## Contributing
