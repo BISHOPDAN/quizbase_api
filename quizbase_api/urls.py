@@ -24,7 +24,7 @@ available from QuizBase.",
 
 doc_urls = [
     path(
-        'quiz/',
+        'quizs/',
         base_schema_view.with_ui('swagger', cache_timeout=0),
         name='schema-swagger-ui'),
 ]
